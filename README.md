@@ -6,7 +6,7 @@
 
 *turning caffeine into commits, one bug at a time* ☕
 
-<img src="assets/coding.gif" alt="coding setup" width="100%" style="border-radius: 10px;" />
+<img src="coding.gif" alt="coding setup" width="100%" style="border-radius: 10px;" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=binaryofbaaj&color=blueviolet&style=flat-square&label=profile+views)](https://github.com/binaryofbaaj)
 [![GitHub followers](https://img.shields.io/github/followers/binaryofbaaj?style=flat-square&color=blueviolet)](https://github.com/binaryofbaaj?tab=followers)
