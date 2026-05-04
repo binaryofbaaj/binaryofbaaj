@@ -21,8 +21,11 @@ class Baaj:
     alias      = "binaryofbaaj"
     role       = "Student · Builder · Debugger of my own bugs"
     location   = "🇮🇳 India"
-    currently  = "Learning something new every day"
+    portfolio  = "https://baaj-portfolio.netlify.app/"
+    currently  = "Building things I'd actually want to use"
+    stack      = ["React", "Next.js", "Three.js", "Python", "Java"]
     fun_fact   = "The 'baaj' in my name means eagle. I aim high. 🦅"
+    secret     = "I ship projects before I tell anyone about them 🤫"
 
     def say_hi(self):
         print("hey! glad you're here. poke around — things get interesting 👇")
@@ -41,8 +44,18 @@ class Baaj:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
 **Tools & Platforms**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -55,12 +68,14 @@ class Baaj:
 
 | 🚀 Project | 🔧 Built With | ✨ What it does |
 |---|---|---|
+| [**NEXUS // Spatial Interface**](https://github.com/binaryofbaaj) | Three.js · JS · HTML/CSS | Cinematic 3D visualization platform with dual themes, HUD telemetry & physics animations |
+| [**Standard Electricals**](https://github.com/binaryofbaaj) | Next.js 14 · Prisma · PostgreSQL · Tailwind | Generator rental system with smart cost calculator, booking DB & email alerts |
+| [**PIC-lite \| Ultra-Glass Pro Camera**](https://binaryofbaaj.github.io/pic-lite/) | Vanilla JS · Canvas API · MediaRecorder | Browser-based camera app with real-time filters, glassmorphism UI & cinematic video |
+| [**CodeType**](https://github.com/binaryofbaaj) | React 18 · Vite · Three.js · Zustand | Terminal-style typing trainer for devs — real code snippets, 12 languages, secret easter egg 🥚 |
 | [**graph-algorithm-visualizer**](https://github.com/binaryofbaaj/graph-algorithm-visualizer) | JavaScript | Visualizes graph algorithms in action |
 | [**face-detection**](https://github.com/binaryofbaaj/face-detection) | Python | Detects faces using computer vision |
-| [**java-progress**](https://github.com/binaryofbaaj/java-progress) | Java | Tracking my Java learning journey |
 | [**portfolio-baaj**](https://github.com/binaryofbaaj/portfolio-baaj) | TypeScript | My personal portfolio site |
-| [**Sim-Ace**](https://github.com/binaryofbaaj/Sim-Ace) | JavaScript | *(go check it out 👀)* |
-| [**Visually**](https://github.com/binaryofbaaj/Visually) | JavaScript | *(another visual project because I like seeing things)* |
+| [**java-progress**](https://github.com/binaryofbaaj/java-progress) | Java | Tracking my Java learning journey |
 
 ---
 
@@ -88,7 +103,7 @@ class Baaj:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/github-binaryofbaaj-181717?style=for-the-badge&logo=github)](https://github.com/binaryofbaaj)
-[![Portfolio](https://img.shields.io/badge/portfolio-baaj-blueviolet?style=for-the-badge&logo=vercel)](https://github.com/binaryofbaaj/portfolio-baaj)
+[![Portfolio](https://img.shields.io/badge/portfolio-baaj.netlify.app-blueviolet?style=for-the-badge&logo=netlify)](https://baaj-portfolio.netlify.app/)
 
 *open to collabs, cool projects, and conversations about code* 🤝
 
