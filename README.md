@@ -85,10 +85,13 @@ class Baaj:
 ## `github.stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binaryofbaaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gurman's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryofbaaj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=binaryofbaaj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binaryofbaaj&theme=tokyonight" alt="Gurman's GitHub Stats" width="100%" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=binaryofbaaj&theme=tokyonight" alt="Repos Per Language" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=binaryofbaaj&theme=tokyonight" alt="Most Commit Language" height="150"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=binaryofbaaj&theme=tokyonight" alt="Stats" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=binaryofbaaj&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="150"/>
 </div>
 
 ---
