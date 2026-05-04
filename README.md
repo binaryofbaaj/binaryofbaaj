@@ -6,7 +6,7 @@
 
 *turning caffeine into commits, one bug at a time* ☕
 
-<img src="coding.gif" alt="coding setup" width="100%" style="border-radius: 10px;" />
+<img src="assets/coding.gif" alt="coding setup" width="100%" style="border-radius: 10px;" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=binaryofbaaj&color=blueviolet&style=flat-square&label=profile+views)](https://github.com/binaryofbaaj)
 [![GitHub followers](https://img.shields.io/github/followers/binaryofbaaj?style=flat-square&color=blueviolet)](https://github.com/binaryofbaaj?tab=followers)
@@ -45,6 +45,7 @@ class Baaj:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Frameworks & Libraries**
 
