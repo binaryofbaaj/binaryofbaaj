@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=%3E+gurman+singh+budhiraja;%3E+binaryofbaaj;%3E+i+code.+%F0%9F%A6%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=%3E+gurman+singh;%3E+binaryofbaaj;%3E+i+code.+%F0%9F%A6%85" alt="Typing SVG" />
 </h1>
 
 *turning caffeine into commits, one bug at a time* ☕
